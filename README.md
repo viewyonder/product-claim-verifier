@@ -1,4 +1,5 @@
 # Product Claim Verifier
+
 Triangulates product claims made in vendor collateral and 3rd party public and private information against the vendor's product codebase.
 
 ## 1. Product Overview
@@ -8,6 +9,7 @@ Triangulates product claims made in vendor collateral and 3rd party public and p
 Product Claim Verifier CLI (MVP) is a command-line tool for Chief Technology Officers (CTOs) to verify user-provided product claims against a GitHub repository’s codebase. It uses Node.js for processing and an LLM for analysis, providing a text-based proof-of-concept for claim verification before building a web interface.
 
 ### 1.2 Problem Statement
+
 CTOs need a quick way to check if vendor product claims match their codebase implementations, but manual code reviews are time-consuming, and processing irrelevant files wastes resources. A CLI prototype validates core functionality without a UI.
 
 ### 1.3 Objectives
