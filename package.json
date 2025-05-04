@@ -1,0 +1,25 @@
+{
+  "name": "product-claim-verifier",
+  "version": "1.0.0",
+  "description": "Triangulates product claims made in vendor collateral and 3rd party public and private information against the vendor's product codebase.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viewyonder/product-claim-verifier.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viewyonder/product-claim-verifier/issues"
+  },
+  "homepage": "https://github.com/viewyonder/product-claim-verifier#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "commander": "^13.1.0",
+    "node-fetch": "^2.7.0"
+  }
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "claim": "\"Supports AES264 encryption\"",
+    "status": "Ambiguous",
+    "evidence": "Mock evidence for \"Supports AES264 encryption\"",
+    "explanation": "This is a mock analysis. Replace with xAI Grok API call (see https://x.ai/api)."
+  }
+]
