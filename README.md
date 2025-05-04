@@ -1,4 +1,4 @@
-# product-claim-verifier
+# Product Claim Verifier
 Triangulates product claims made in vendor collateral and 3rd party public and private information against the vendor's product codebase.
 
 ## 1. Product Overview
